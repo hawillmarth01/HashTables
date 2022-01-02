@@ -1,4 +1,4 @@
-# Hash Table Implementations
+# Java Hash Table Implementations
 ### Code used to two different hash table/ function implementations.
 
 ## Summary
