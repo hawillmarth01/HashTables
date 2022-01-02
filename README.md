@@ -10,7 +10,7 @@ Five text files are included that can be run with the driver program:
 * gettysburg.txt
 * proverbs.txt
 * that_bad.txt
-* keywords.txt (specifcally used for 'specific' hash table implementation)
+* keywords.txt (used for 'specific' hash table implementation)
 
 
 ## General Hash Table Implementation
