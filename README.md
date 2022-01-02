@@ -67,8 +67,8 @@ By running driver file using commands below, both hash table implementations are
 *location: # of tokens @ location*
 
 ## Usage
-`javac HashTableDriver.java` 
-`java HashTableDriver`
+`javac HashTableDriver.java` <br>
+`java HashTableDriver` <br>
 **Note: Will need to specify a test file (.txt file) for 'general' hash table implementation. "keywords.txt" is used for 'specific' hash table implementation by default.**
 
 ## Credits
