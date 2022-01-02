@@ -67,11 +67,11 @@ By running driver file using commands below, both hash table implementations are
 *location: # of tokens @ location*
 
 ## Usage
-`javac HashTableDriver.java`
+`javac HashTableDriver.java` 
 `java HashTableDriver`
 **Note: Will need to specify a test file (.txt file) for 'general' hash table implementation. "keywords.txt" is used for 'specific' hash table implementation by default.**
 
 ## Credits
-"TextScan.class" and "TextScan.java" were provided for project. I did not write the code included in these files.
+"TextScan.class" and "TextScan.java" were provided for this project. I did not write the code included in these files.
 
 
