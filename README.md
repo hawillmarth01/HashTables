@@ -72,6 +72,5 @@ By running driver file using commands below, both hash table implementations are
 **Note: Will need to specify a test file (.txt file) for 'general' hash table implementation. "keywords.txt" is used for 'specific' hash table implementation by default.**
 
 ## Credits
-"TextScan.class" and "TextScan.java" were provided for this project. I did not write the code included in these files.
-
+Code used in "HashTableDriver.java" to scan a given text file is based of "TextScan.class" and "TextScan.java" which were provided for this project.
 
