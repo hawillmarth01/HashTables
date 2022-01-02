@@ -31,7 +31,7 @@ Five text files are included that can be run with the driver program:
     * Addition of: numerical value of first character and product described above.
 5. Scales hash code to size of table using modulo 137.
     * *Conditional: Checks hash table at hash code + 1 (index after current hash code). If it is
-    empty, adds one to index (hash code value). If not, does nothing.**
+    empty, adds one to index (hash code value). If not, does nothing.*
 6. Current hash code value is the final hash code (already scaled) of the specified key.
 
 ### Test Results
