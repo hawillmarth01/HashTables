@@ -68,7 +68,7 @@ By running driver file using commands below, both hash table implementations are
 
 ## Usage
 `javac HashTableDriver.java` <br>
-`java HashTableDriver` <br>
+`java HashTableDriver` <br> <br>
 **Note: Will need to specify a test file (.txt file) for 'general' hash table implementation. "keywords.txt" is used for 'specific' hash table implementation by default.**
 
 ## Credits
